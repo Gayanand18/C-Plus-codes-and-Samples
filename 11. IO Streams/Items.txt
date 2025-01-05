@@ -1,0 +1,9 @@
+Apple
+129
+10
+Mango
+111
+22
+orange
+11
+5

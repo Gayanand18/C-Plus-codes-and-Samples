@@ -1,0 +1,12 @@
+soap
+12
+144
+brush
+2
+100
+detergent
+1
+250
+paste
+1
+120
